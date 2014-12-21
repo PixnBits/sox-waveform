@@ -1,0 +1,31 @@
+{
+  "name": "sox-waveform",
+  "version": "0.0.1",
+  "description": "stream out an audio file's waveform via sox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sox",
+    "dat",
+    "music",
+    "sound",
+    "speaker",
+    "audio",
+    "waveform"
+  ],
+  "author": "pixnbits",
+  "license": "GNE (use for Good Not Evil)",
+  "dependencies": {
+    "split": "~0.3.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PixnBits/sox-waveform.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PixnBits/sox-waveform/issues"
+  }
+}
